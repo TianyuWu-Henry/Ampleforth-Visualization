@@ -1,3 +1,3 @@
-# Crypto-Lab-Resources
+# Visualizing [Ampleforth](https://www.ampleforth.org/) Dynamics
 This repository contains the resources in the crypto lab, and will be updated once a week in the form of project-based learning.
 In the first week, I successfully downloaded the data from https://github.com/in3rsha/bitcoin-utxo-dump through Linux system. Actually, the package this website offered has already beeen removed, and I managed to seek for the original version of bitcoin terminal website and downloaded the historical data from it. The data contains several fields, such as count, txid, vout, height, coinbase, amount, script, type, address and so on. At the same time, the data range from 2008 to 2020, and the overall volume is around 10 GB.
